@@ -1,0 +1,10 @@
+daylight-switcher is a tool to toggle between day and night settings for
+hacking. It switches all Terminal.app windows and tabs to the dark or light
+variant of the Solarized color scheme in one go.
+
+Further plans:
+- switch also MacVIM, Intelij in one go
+- have one shortcut to select the currently right settings, based on time, locaation 
+  and light sensor in macbooks
+
+
